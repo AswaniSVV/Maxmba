@@ -1,9 +1,0 @@
-## Pages
-- [- MaxMBA](/coursewaresubject): No description available
-- [- MBA Study Hub Store](/productdetail): No description available
-- [About Us - MaxMBA](/about): Learn about MaxMBA
-- [Contact Us - MaxMBA](/contact): Get in touch with the MaxMBA team.
-- [Courseware - MaxMBA](/courseware): Explore all MBA courseware subjects offered by MaxMBA.
-- [Payment Successful - MBA Study Hub](/success): Your payment was successful. Thank you for your purchase.
-- [Sandbox - MaxMBA](/sandbox): Practice case studies and interviews in the MaxMBA sandbox.
-- [Store - MBA Study Hub](/store): Browse and purchase exclusive products from the MBA Study Hub store.
